@@ -15,6 +15,7 @@
 - 13 - Basico de Python
 - 14 - Profesional de Git y GitHub
 - 15 - Introduccion a la Terminal y Linea de Comandos.
+- 16 - Intermedio de Python.
 
 En el trancurso del tiempo ire subiendo mas contenido.
 
